@@ -1,3 +1,3 @@
-# IPL-Score-Prediction-using-Machine-Learning-Algorithms
+# Ipl_Poweplay_Predictor
+ML model to predict powerplay scores of teams in ipl using ball to ball data of all previous seasons of ipl.
 
-Machine Learning algorithms to predict the accurate score for the up coming matches.
